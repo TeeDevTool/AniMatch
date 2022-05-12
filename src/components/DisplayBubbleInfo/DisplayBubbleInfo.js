@@ -71,7 +71,7 @@ const DisplayBubbleInfo = memo((props) => {
                     labelId="genre-label"
                     className="selector"
                     id="genre-selector"
-                    value={props?.genre}
+                    value={props?.genres}
                     onChange={props?.handleChange}
                 >
                     {props.genreList.map((g) => (

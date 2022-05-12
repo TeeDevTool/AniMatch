@@ -119,7 +119,7 @@ function App() {
                     {...{
                         ...state.display,
                         height: state.height,
-                        genre: state.genre,
+                        genres: state.genre,
                         genreList: state.genreMap,
                         handleChange: handleSelect,
                     }}
