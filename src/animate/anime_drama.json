@@ -1,0 +1,452 @@
+[
+  {
+    "": 1,
+    "name": "Shigatsu wa Kimi no Uso",
+    "genre": "Drama",
+    "popularity": 22,
+    "members": 1442330,
+    "rating": 8.74,
+    "size": 200
+  },
+  {
+    "": 2,
+    "name": "Charlotte",
+    "genre": "Drama",
+    "popularity": 64,
+    "members": 1057447,
+    "rating": 7.77,
+    "size": 200
+  },
+  {
+    "": 3,
+    "name": "Shinsekai yori",
+    "genre": "Drama",
+    "popularity": 168,
+    "members": 619318,
+    "rating": 8.35,
+    "size": 200
+  },
+  {
+    "": 4,
+    "name": "Monster",
+    "genre": "Drama",
+    "popularity": 169,
+    "members": 614100,
+    "rating": 8.76,
+    "size": 200
+  },
+  {
+    "": 5,
+    "name": "Vampire Knight",
+    "genre": "Drama",
+    "popularity": 254,
+    "members": 479832,
+    "rating": 7.03,
+    "size": 200
+  },
+  {
+    "": 6,
+    "name": "Sukitte Ii na yo.",
+    "genre": "Drama",
+    "popularity": 256,
+    "members": 475603,
+    "rating": 7.49,
+    "size": 200
+  },
+  {
+    "": 7,
+    "name": "Nagi no Asu kara",
+    "genre": "Drama",
+    "popularity": 269,
+    "members": 466251,
+    "rating": 8.09,
+    "size": 200
+  },
+  {
+    "": 8,
+    "name": "Kuzu no Honkai",
+    "genre": "Drama",
+    "popularity": 272,
+    "members": 462466,
+    "rating": 7.31,
+    "size": 200
+  },
+  {
+    "": 9,
+    "name": "3-gatsu no Lion",
+    "genre": "Drama",
+    "popularity": 280,
+    "members": 461713,
+    "rating": 8.43,
+    "size": 200
+  },
+  {
+    "": 10,
+    "name": "Grisaia no Kajitsu",
+    "genre": "Drama",
+    "popularity": 284,
+    "members": 453783,
+    "rating": 7.55,
+    "size": 200
+  },
+  {
+    "": 11,
+    "name": "Kakegurui××",
+    "genre": "Drama",
+    "popularity": 303,
+    "members": 435529,
+    "rating": 7.33,
+    "size": 200
+  },
+  {
+    "": 12,
+    "name": "Domestic na Kanojo",
+    "genre": "Drama",
+    "popularity": 332,
+    "members": 400598,
+    "rating": 6.77,
+    "size": 200
+  },
+  {
+    "": 13,
+    "name": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+    "genre": "Drama",
+    "popularity": 369,
+    "members": 359136,
+    "rating": 6.26,
+    "size": 200
+  },
+  {
+    "": 14,
+    "name": "Chihayafuru",
+    "genre": "Drama",
+    "popularity": 389,
+    "members": 348658,
+    "rating": 8.23,
+    "size": 200
+  },
+  {
+    "": 15,
+    "name": "Citrus",
+    "genre": "Drama",
+    "popularity": 398,
+    "members": 340760,
+    "rating": 6.51,
+    "size": 200
+  },
+  {
+    "": 16,
+    "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "genre": "Drama",
+    "popularity": 438,
+    "members": 319654,
+    "rating": 8.37,
+    "size": 200
+  },
+  {
+    "": 17,
+    "name": "Grisaia no Rakuen",
+    "genre": "Drama",
+    "popularity": 453,
+    "members": 310138,
+    "rating": 7.86,
+    "size": 200
+  },
+  {
+    "": 18,
+    "name": "Vampire Knight: Guilty",
+    "genre": "Drama",
+    "popularity": 464,
+    "members": 303271,
+    "rating": 7.22,
+    "size": 200
+  },
+  {
+    "": 19,
+    "name": "Rainbow: Nisha Rokubou no Shichinin",
+    "genre": "Drama",
+    "popularity": 466,
+    "members": 304557,
+    "rating": 8.52,
+    "size": 200
+  },
+  {
+    "": 20,
+    "name": "Sakamichi no Apollon",
+    "genre": "Drama",
+    "popularity": 494,
+    "members": 284901,
+    "rating": 8.36,
+    "size": 200
+  },
+  {
+    "": 21,
+    "name": "Gokukoku no Brynhildr",
+    "genre": "Drama",
+    "popularity": 505,
+    "members": 280819,
+    "rating": 6.92,
+    "size": 200
+  },
+  {
+    "": 22,
+    "name": "Koi to Uso",
+    "genre": "Drama",
+    "popularity": 507,
+    "members": 280436,
+    "rating": 6.57,
+    "size": 200
+  },
+  {
+    "": 23,
+    "name": "Ping Pong the Animation",
+    "genre": "Drama",
+    "popularity": 545,
+    "members": 265774,
+    "rating": 8.63,
+    "size": 200
+  },
+  {
+    "": 24,
+    "name": "3-gatsu no Lion 2nd Season",
+    "genre": "Drama",
+    "popularity": 545,
+    "members": 266243,
+    "rating": 9,
+    "size": 200
+  },
+  {
+    "": 25,
+    "name": "Given",
+    "genre": "Drama",
+    "popularity": 561,
+    "members": 260768,
+    "rating": 8.32,
+    "size": 200
+  },
+  {
+    "": 26,
+    "name": "Akagami no Shirayuki-hime 2nd Season",
+    "genre": "Drama",
+    "popularity": 589,
+    "members": 247889,
+    "rating": 8,
+    "size": 200
+  },
+  {
+    "": 27,
+    "name": "Tokyo Magnitude 8.0",
+    "genre": "Drama",
+    "popularity": 611,
+    "members": 237316,
+    "rating": 8.06,
+    "size": 200
+  },
+  {
+    "": 28,
+    "name": "Carole & Tuesday",
+    "genre": "Drama",
+    "popularity": 634,
+    "members": 227545,
+    "rating": 7.95,
+    "size": 200
+  },
+  {
+    "": 29,
+    "name": "Irozuku Sekai no Ashita kara",
+    "genre": "Drama",
+    "popularity": 646,
+    "members": 225561,
+    "rating": 7.55,
+    "size": 200
+  },
+  {
+    "": 30,
+    "name": "Shouwa Genroku Rakugo Shinjuu",
+    "genre": "Drama",
+    "popularity": 653,
+    "members": 223244,
+    "rating": 8.6,
+    "size": 200
+  },
+  {
+    "": 31,
+    "name": "Fuuka",
+    "genre": "Drama",
+    "popularity": 654,
+    "members": 223931,
+    "rating": 6.54,
+    "size": 200
+  },
+  {
+    "": 32,
+    "name": "Planetes",
+    "genre": "Drama",
+    "popularity": 762,
+    "members": 195630,
+    "rating": 8.31,
+    "size": 200
+  },
+  {
+    "": 33,
+    "name": "Gankutsuou",
+    "genre": "Drama",
+    "popularity": 767,
+    "members": 193810,
+    "rating": 8.17,
+    "size": 200
+  },
+  {
+    "": 34,
+    "name": "White Album 2",
+    "genre": "Drama",
+    "popularity": 774,
+    "members": 191370,
+    "rating": 7.71,
+    "size": 200
+  },
+  {
+    "": 35,
+    "name": "Happy Sugar Life",
+    "genre": "Drama",
+    "popularity": 800,
+    "members": 186243,
+    "rating": 6.89,
+    "size": 200
+  },
+  {
+    "": 36,
+    "name": "Koi to Senkyo to Chocolate",
+    "genre": "Drama",
+    "popularity": 812,
+    "members": 184264,
+    "rating": 7.09,
+    "size": 200
+  },
+  {
+    "": 37,
+    "name": "True Tears",
+    "genre": "Drama",
+    "popularity": 813,
+    "members": 184013,
+    "rating": 7.36,
+    "size": 200
+  },
+  {
+    "": 38,
+    "name": "Chihayafuru 2",
+    "genre": "Drama",
+    "popularity": 816,
+    "members": 183624,
+    "rating": 8.43,
+    "size": 200
+  },
+  {
+    "": 39,
+    "name": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+    "genre": "Drama",
+    "popularity": 858,
+    "members": 174026,
+    "rating": 7.43,
+    "size": 200
+  },
+  {
+    "": 40,
+    "name": "Aoi Bungaku Series",
+    "genre": "Drama",
+    "popularity": 885,
+    "members": 168859,
+    "rating": 7.74,
+    "size": 200
+  },
+  {
+    "": 41,
+    "name": "Myself; Yourself",
+    "genre": "Drama",
+    "popularity": 902,
+    "members": 164171,
+    "rating": 7.21,
+    "size": 200
+  },
+  {
+    "": 42,
+    "name": "Kamisama ni Natta Hi",
+    "genre": "Drama",
+    "popularity": 920,
+    "members": 161314,
+    "rating": 6.86,
+    "size": 200
+  },
+  {
+    "": 43,
+    "name": "Romeo x Juliet",
+    "genre": "Drama",
+    "popularity": 957,
+    "members": 154988,
+    "rating": 7.66,
+    "size": 200
+  },
+  {
+    "": 44,
+    "name": "Mahou Shoujo Site",
+    "genre": "Drama",
+    "popularity": 975,
+    "members": 152026,
+    "rating": 6.48,
+    "size": 200
+  },
+  {
+    "": 45,
+    "name": "Kono Oto Tomare!",
+    "genre": "Drama",
+    "popularity": 1040,
+    "members": 143559,
+    "rating": 7.87,
+    "size": 200
+  },
+  {
+    "": 46,
+    "name": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+    "genre": "Drama",
+    "popularity": 1059,
+    "members": 140007,
+    "rating": 8.79,
+    "size": 200
+  },
+  {
+    "": 47,
+    "name": "Kimi ga Nozomu Eien",
+    "genre": "Drama",
+    "popularity": 1187,
+    "members": 123752,
+    "rating": 7.24,
+    "size": 200
+  },
+  {
+    "": 48,
+    "name": "Jaku-Chara Tomozaki-kun",
+    "genre": "Drama",
+    "popularity": 1227,
+    "members": 120047,
+    "rating": 7.01,
+    "size": 200
+  },
+  {
+    "": 49,
+    "name": "Strawberry Panic",
+    "genre": "Drama",
+    "popularity": 1269,
+    "members": 113097,
+    "rating": 7.31,
+    "size": 200
+  },
+  {
+    "": 50,
+    "name": "Netsuzou TRap",
+    "genre": "Drama",
+    "popularity": 1271,
+    "members": 113804,
+    "rating": 5.37,
+    "size": 200
+  }
+]

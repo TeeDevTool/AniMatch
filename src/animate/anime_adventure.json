@@ -1,0 +1,452 @@
+[
+  {
+    "": 1,
+    "name": "Kono Subarashii Sekai ni Shukufuku wo!",
+    "genre": "Adventure",
+    "popularity": 34,
+    "members": 1290898,
+    "rating": 8.15,
+    "size": 200
+  },
+  {
+    "": 2,
+    "name": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+    "genre": "Adventure",
+    "popularity": 69,
+    "members": 990857,
+    "rating": 8.31,
+    "size": 200
+  },
+  {
+    "": 3,
+    "name": "Dragon Ball",
+    "genre": "Adventure",
+    "popularity": 120,
+    "members": 735546,
+    "rating": 8,
+    "size": 200
+  },
+  {
+    "": 4,
+    "name": "Ookami to Koushinryou",
+    "genre": "Adventure",
+    "popularity": 153,
+    "members": 641448,
+    "rating": 8.27,
+    "size": 200
+  },
+  {
+    "": 5,
+    "name": "Mushishi",
+    "genre": "Adventure",
+    "popularity": 167,
+    "members": 620736,
+    "rating": 8.69,
+    "size": 200
+  },
+  {
+    "": 6,
+    "name": "Little Witch Academia (TV)",
+    "genre": "Adventure",
+    "popularity": 279,
+    "members": 461846,
+    "rating": 7.91,
+    "size": 200
+  },
+  {
+    "": 7,
+    "name": "Ookami to Koushinryou II",
+    "genre": "Adventure",
+    "popularity": 336,
+    "members": 395939,
+    "rating": 8.36,
+    "size": 200
+  },
+  {
+    "": 8,
+    "name": "Koukyoushihen Eureka Seven",
+    "genre": "Adventure",
+    "popularity": 351,
+    "members": 379048,
+    "rating": 8.09,
+    "size": 200
+  },
+  {
+    "": 9,
+    "name": "Satsuriku no Tenshi",
+    "genre": "Adventure",
+    "popularity": 351,
+    "members": 382383,
+    "rating": 6.87,
+    "size": 200
+  },
+  {
+    "": 10,
+    "name": "Pandora Hearts",
+    "genre": "Adventure",
+    "popularity": 368,
+    "members": 361650,
+    "rating": 7.72,
+    "size": 200
+  },
+  {
+    "": 11,
+    "name": "Maoyuu Maou Yuusha",
+    "genre": "Adventure",
+    "popularity": 382,
+    "members": 355361,
+    "rating": 7.31,
+    "size": 200
+  },
+  {
+    "": 12,
+    "name": "Isekai wa Smartphone to Tomo ni.",
+    "genre": "Adventure",
+    "popularity": 389,
+    "members": 346386,
+    "rating": 6.24,
+    "size": 200
+  },
+  {
+    "": 13,
+    "name": "Sora yori mo Tooi Basho",
+    "genre": "Adventure",
+    "popularity": 392,
+    "members": 344406,
+    "rating": 8.57,
+    "size": 200
+  },
+  {
+    "": 14,
+    "name": "Cardcaptor Sakura",
+    "genre": "Adventure",
+    "popularity": 405,
+    "members": 338021,
+    "rating": 8.16,
+    "size": 200
+  },
+  {
+    "": 15,
+    "name": "Death March kara Hajimaru Isekai Kyousoukyoku",
+    "genre": "Adventure",
+    "popularity": 411,
+    "members": 334103,
+    "rating": 6.54,
+    "size": 200
+  },
+  {
+    "": 16,
+    "name": "Zero no Tsukaima F",
+    "genre": "Adventure",
+    "popularity": 412,
+    "members": 333447,
+    "rating": 7.52,
+    "size": 200
+  },
+  {
+    "": 17,
+    "name": "Yu☆Gi☆Oh! Duel Monsters",
+    "genre": "Adventure",
+    "popularity": 484,
+    "members": 292991,
+    "rating": 7.47,
+    "size": 200
+  },
+  {
+    "": 18,
+    "name": "Madan no Ou to Vanadis",
+    "genre": "Adventure",
+    "popularity": 545,
+    "members": 265671,
+    "rating": 7.17,
+    "size": 200
+  },
+  {
+    "": 19,
+    "name": "Detective Conan",
+    "genre": "Adventure",
+    "popularity": 580,
+    "members": 252940,
+    "rating": 8.16,
+    "size": 200
+  },
+  {
+    "": 20,
+    "name": "Soredemo Sekai wa Utsukushii",
+    "genre": "Adventure",
+    "popularity": 629,
+    "members": 228677,
+    "rating": 7.67,
+    "size": 200
+  },
+  {
+    "": 21,
+    "name": "Shoujo Shuumatsu Ryokou",
+    "genre": "Adventure",
+    "popularity": 631,
+    "members": 228188,
+    "rating": 8.19,
+    "size": 200
+  },
+  {
+    "": 22,
+    "name": "Mushishi Zoku Shou",
+    "genre": "Adventure",
+    "popularity": 639,
+    "members": 226522,
+    "rating": 8.72,
+    "size": 200
+  },
+  {
+    "": 23,
+    "name": "Eizouken ni wa Te wo Dasu na!",
+    "genre": "Adventure",
+    "popularity": 698,
+    "members": 211247,
+    "rating": 8.17,
+    "size": 200
+  },
+  {
+    "": 24,
+    "name": "Majo no Tabitabi",
+    "genre": "Adventure",
+    "popularity": 743,
+    "members": 199299,
+    "rating": 7.57,
+    "size": 200
+  },
+  {
+    "": 25,
+    "name": "Mushishi Zoku Shou 2nd Season",
+    "genre": "Adventure",
+    "popularity": 746,
+    "members": 198954,
+    "rating": 8.76,
+    "size": 200
+  },
+  {
+    "": 26,
+    "name": "Ryuugajou Nanana no Maizoukin (TV)",
+    "genre": "Adventure",
+    "popularity": 762,
+    "members": 195516,
+    "rating": 7.19,
+    "size": 200
+  },
+  {
+    "": 27,
+    "name": "Somali to Mori no Kamisama",
+    "genre": "Adventure",
+    "popularity": 774,
+    "members": 193956,
+    "rating": 7.82,
+    "size": 200
+  },
+  {
+    "": 28,
+    "name": "Kamisama no Inai Nichiyoubi",
+    "genre": "Adventure",
+    "popularity": 784,
+    "members": 190201,
+    "rating": 7.35,
+    "size": 200
+  },
+  {
+    "": 29,
+    "name": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+    "genre": "Adventure",
+    "popularity": 834,
+    "members": 178807,
+    "rating": 5.54,
+    "size": 200
+  },
+  {
+    "": 30,
+    "name": "Digimon Tamers",
+    "genre": "Adventure",
+    "popularity": 927,
+    "members": 160643,
+    "rating": 7.62,
+    "size": 200
+  },
+  {
+    "": 31,
+    "name": "Granblue Fantasy The Animation",
+    "genre": "Adventure",
+    "popularity": 1023,
+    "members": 144869,
+    "rating": 6.7,
+    "size": 200
+  },
+  {
+    "": 32,
+    "name": "Saint Seiya",
+    "genre": "Adventure",
+    "popularity": 1026,
+    "members": 144978,
+    "rating": 7.77,
+    "size": 200
+  },
+  {
+    "": 33,
+    "name": "Kumo Desu ga, Nani ka?",
+    "genre": "Adventure",
+    "popularity": 1127,
+    "members": 132114,
+    "rating": 6.94,
+    "size": 200
+  },
+  {
+    "": 34,
+    "name": "Tenkuu no Escaflowne",
+    "genre": "Adventure",
+    "popularity": 1157,
+    "members": 127239,
+    "rating": 7.7,
+    "size": 200
+  },
+  {
+    "": 35,
+    "name": "Dennou Coil",
+    "genre": "Adventure",
+    "popularity": 1212,
+    "members": 121554,
+    "rating": 8.09,
+    "size": 200
+  },
+  {
+    "": 36,
+    "name": "Slayers",
+    "genre": "Adventure",
+    "popularity": 1241,
+    "members": 116837,
+    "rating": 7.76,
+    "size": 200
+  },
+  {
+    "": 37,
+    "name": "Kaiba",
+    "genre": "Adventure",
+    "popularity": 1270,
+    "members": 113817,
+    "rating": 8.17,
+    "size": 200
+  },
+  {
+    "": 38,
+    "name": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+    "genre": "Adventure",
+    "popularity": 1291,
+    "members": 111812,
+    "rating": 6.75,
+    "size": 200
+  },
+  {
+    "": 39,
+    "name": "Sounan Desu ka?",
+    "genre": "Adventure",
+    "popularity": 1302,
+    "members": 109692,
+    "rating": 6.62,
+    "size": 200
+  },
+  {
+    "": 40,
+    "name": "Tales of the Abyss",
+    "genre": "Adventure",
+    "popularity": 1306,
+    "members": 109058,
+    "rating": 7.32,
+    "size": 200
+  },
+  {
+    "": 41,
+    "name": "Ima, Soko ni Iru Boku",
+    "genre": "Adventure",
+    "popularity": 1309,
+    "members": 108100,
+    "rating": 7.66,
+    "size": 200
+  },
+  {
+    "": 42,
+    "name": "Druaga no Tou: The Aegis of Uruk",
+    "genre": "Adventure",
+    "popularity": 1355,
+    "members": 104286,
+    "rating": 7.19,
+    "size": 200
+  },
+  {
+    "": 43,
+    "name": "Tegamibachi",
+    "genre": "Adventure",
+    "popularity": 1357,
+    "members": 103916,
+    "rating": 7.65,
+    "size": 200
+  },
+  {
+    "": 44,
+    "name": "Hakushaku to Yousei",
+    "genre": "Adventure",
+    "popularity": 1366,
+    "members": 102568,
+    "rating": 7.28,
+    "size": 200
+  },
+  {
+    "": 45,
+    "name": "Alice to Zouroku",
+    "genre": "Adventure",
+    "popularity": 1410,
+    "members": 98291,
+    "rating": 7.12,
+    "size": 200
+  },
+  {
+    "": 46,
+    "name": "Konjiki no Gash Bell!!",
+    "genre": "Adventure",
+    "popularity": 1417,
+    "members": 97615,
+    "rating": 7.55,
+    "size": 200
+  },
+  {
+    "": 47,
+    "name": "Fushigi Yuugi",
+    "genre": "Adventure",
+    "popularity": 1434,
+    "members": 96861,
+    "rating": 7.64,
+    "size": 200
+  },
+  {
+    "": 48,
+    "name": "Magic Kaito 1412",
+    "genre": "Adventure",
+    "popularity": 1468,
+    "members": 94709,
+    "rating": 7.88,
+    "size": 200
+  },
+  {
+    "": 49,
+    "name": "Cardcaptor Sakura: Clear Card-hen",
+    "genre": "Adventure",
+    "popularity": 1495,
+    "members": 91956,
+    "rating": 7.66,
+    "size": 200
+  },
+  {
+    "": 50,
+    "name": "Kyou kara Maou!",
+    "genre": "Adventure",
+    "popularity": 1513,
+    "members": 91225,
+    "rating": 7.7,
+    "size": 200
+  }
+]

@@ -1,0 +1,9 @@
+.buttonFixed {
+  position: fixed;
+  top: 25px;
+  left: 25px;
+}
+
+.bubbleText {
+  flex-flow: wrap;
+}

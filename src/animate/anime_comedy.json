@@ -1,0 +1,452 @@
+[
+  {
+    "": 1,
+    "name": "Haikyuu!!",
+    "genre": "Comedy",
+    "popularity": 50,
+    "members": 1185274,
+    "rating": 8.53,
+    "size": 200
+  },
+  {
+    "": 2,
+    "name": "Clannad",
+    "genre": "Comedy",
+    "popularity": 58,
+    "members": 1095634,
+    "rating": 8.07,
+    "size": 200
+  },
+  {
+    "": 3,
+    "name": "Hataraku Maou-sama!",
+    "genre": "Comedy",
+    "popularity": 62,
+    "members": 1061216,
+    "rating": 7.83,
+    "size": 200
+  },
+  {
+    "": 4,
+    "name": "High School DxD",
+    "genre": "Comedy",
+    "popularity": 68,
+    "members": 995532,
+    "rating": 7.4,
+    "size": 200
+  },
+  {
+    "": 5,
+    "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "genre": "Comedy",
+    "popularity": 78,
+    "members": 940033,
+    "rating": 8.38,
+    "size": 200
+  },
+  {
+    "": 6,
+    "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+    "genre": "Comedy",
+    "popularity": 83,
+    "members": 925543,
+    "rating": 8.43,
+    "size": 200
+  },
+  {
+    "": 7,
+    "name": "Kaichou wa Maid-sama!",
+    "genre": "Comedy",
+    "popularity": 90,
+    "members": 883462,
+    "rating": 8.06,
+    "size": 200
+  },
+  {
+    "": 8,
+    "name": "Haikyuu!! Second Season",
+    "genre": "Comedy",
+    "popularity": 94,
+    "members": 874150,
+    "rating": 8.73,
+    "size": 200
+  },
+  {
+    "": 9,
+    "name": "Ouran Koukou Host Club",
+    "genre": "Comedy",
+    "popularity": 102,
+    "members": 827960,
+    "rating": 8.2,
+    "size": 200
+  },
+  {
+    "": 10,
+    "name": "Kuroko no Basket",
+    "genre": "Comedy",
+    "popularity": 104,
+    "members": 810207,
+    "rating": 8.15,
+    "size": 200
+  },
+  {
+    "": 11,
+    "name": "Suzumiya Haruhi no Yuuutsu",
+    "genre": "Comedy",
+    "popularity": 115,
+    "members": 745062,
+    "rating": 7.88,
+    "size": 200
+  },
+  {
+    "": 12,
+    "name": "Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
+    "genre": "Comedy",
+    "popularity": 123,
+    "members": 727240,
+    "rating": 8.87,
+    "size": 200
+  },
+  {
+    "": 13,
+    "name": "Prison School",
+    "genre": "Comedy",
+    "popularity": 136,
+    "members": 696018,
+    "rating": 7.71,
+    "size": 200
+  },
+  {
+    "": 14,
+    "name": "Golden Time",
+    "genre": "Comedy",
+    "popularity": 138,
+    "members": 688649,
+    "rating": 7.78,
+    "size": 200
+  },
+  {
+    "": 15,
+    "name": "Gekkan Shoujo Nozaki-kun",
+    "genre": "Comedy",
+    "popularity": 142,
+    "members": 681194,
+    "rating": 7.96,
+    "size": 200
+  },
+  {
+    "": 16,
+    "name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+    "genre": "Comedy",
+    "popularity": 151,
+    "members": 654744,
+    "rating": 8.74,
+    "size": 200
+  },
+  {
+    "": 17,
+    "name": "Ao Haru Ride",
+    "genre": "Comedy",
+    "popularity": 182,
+    "members": 591908,
+    "rating": 7.67,
+    "size": 200
+  },
+  {
+    "": 18,
+    "name": "Saiki Kusuo no Ψ-nan",
+    "genre": "Comedy",
+    "popularity": 183,
+    "members": 591140,
+    "rating": 8.45,
+    "size": 200
+  },
+  {
+    "": 19,
+    "name": "Kuroko no Basket 2nd Season",
+    "genre": "Comedy",
+    "popularity": 185,
+    "members": 588404,
+    "rating": 8.28,
+    "size": 200
+  },
+  {
+    "": 20,
+    "name": "Yuri!!! on Ice",
+    "genre": "Comedy",
+    "popularity": 191,
+    "members": 580801,
+    "rating": 7.92,
+    "size": 200
+  },
+  {
+    "": 21,
+    "name": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "genre": "Comedy",
+    "popularity": 201,
+    "members": 557478,
+    "rating": 7.33,
+    "size": 200
+  },
+  {
+    "": 22,
+    "name": "NHK ni Youkoso!",
+    "genre": "Comedy",
+    "popularity": 203,
+    "members": 550365,
+    "rating": 8.33,
+    "size": 200
+  },
+  {
+    "": 23,
+    "name": "Masamune-kun no Revenge",
+    "genre": "Comedy",
+    "popularity": 207,
+    "members": 547027,
+    "rating": 6.83,
+    "size": 200
+  },
+  {
+    "": 24,
+    "name": "Baka to Test to Shoukanjuu",
+    "genre": "Comedy",
+    "popularity": 221,
+    "members": 529741,
+    "rating": 7.6,
+    "size": 200
+  },
+  {
+    "": 25,
+    "name": "Wotaku ni Koi wa Muzukashii",
+    "genre": "Comedy",
+    "popularity": 222,
+    "members": 528912,
+    "rating": 7.96,
+    "size": 200
+  },
+  {
+    "": 26,
+    "name": "Chuunibyou demo Koi ga Shitai! Ren",
+    "genre": "Comedy",
+    "popularity": 226,
+    "members": 522620,
+    "rating": 7.56,
+    "size": 200
+  },
+  {
+    "": 27,
+    "name": "Eromanga-sensei",
+    "genre": "Comedy",
+    "popularity": 227,
+    "members": 513293,
+    "rating": 6.49,
+    "size": 200
+  },
+  {
+    "": 28,
+    "name": "Kami nomi zo Shiru Sekai",
+    "genre": "Comedy",
+    "popularity": 230,
+    "members": 510719,
+    "rating": 7.73,
+    "size": 200
+  },
+  {
+    "": 29,
+    "name": "Kuroko no Basket 3rd Season",
+    "genre": "Comedy",
+    "popularity": 232,
+    "members": 506465,
+    "rating": 8.34,
+    "size": 200
+  },
+  {
+    "": 30,
+    "name": "K-On!!",
+    "genre": "Comedy",
+    "popularity": 233,
+    "members": 509434,
+    "rating": 8.15,
+    "size": 200
+  },
+  {
+    "": 31,
+    "name": "Barakamon",
+    "genre": "Comedy",
+    "popularity": 235,
+    "members": 503396,
+    "rating": 8.41,
+    "size": 200
+  },
+  {
+    "": 32,
+    "name": "Nisekoi:",
+    "genre": "Comedy",
+    "popularity": 239,
+    "members": 500350,
+    "rating": 7.39,
+    "size": 200
+  },
+  {
+    "": 33,
+    "name": "Amagi Brilliant Park",
+    "genre": "Comedy",
+    "popularity": 240,
+    "members": 496580,
+    "rating": 7.52,
+    "size": 200
+  },
+  {
+    "": 34,
+    "name": "Himouto! Umaru-chan",
+    "genre": "Comedy",
+    "popularity": 241,
+    "members": 494283,
+    "rating": 7.17,
+    "size": 200
+  },
+  {
+    "": 35,
+    "name": "Bakuman.",
+    "genre": "Comedy",
+    "popularity": 242,
+    "members": 490554,
+    "rating": 8.23,
+    "size": 200
+  },
+  {
+    "": 36,
+    "name": "Tsurezure Children",
+    "genre": "Comedy",
+    "popularity": 249,
+    "members": 483639,
+    "rating": 7.67,
+    "size": 200
+  },
+  {
+    "": 37,
+    "name": "Ore Monogatari!!",
+    "genre": "Comedy",
+    "popularity": 258,
+    "members": 480559,
+    "rating": 7.96,
+    "size": 200
+  },
+  {
+    "": 38,
+    "name": "Sankarea",
+    "genre": "Comedy",
+    "popularity": 270,
+    "members": 464331,
+    "rating": 7.36,
+    "size": 200
+  },
+  {
+    "": 39,
+    "name": "Haikyuu!!: To the Top",
+    "genre": "Comedy",
+    "popularity": 276,
+    "members": 470208,
+    "rating": 8.39,
+    "size": 200
+  },
+  {
+    "": 40,
+    "name": "Date A Live II",
+    "genre": "Comedy",
+    "popularity": 290,
+    "members": 445431,
+    "rating": 7.24,
+    "size": 200
+  },
+  {
+    "": 41,
+    "name": "Kanojo, Okarishimasu",
+    "genre": "Comedy",
+    "popularity": 291,
+    "members": 442452,
+    "rating": 7.37,
+    "size": 200
+  },
+  {
+    "": 42,
+    "name": "Hataraku Saibou (TV)",
+    "genre": "Comedy",
+    "popularity": 295,
+    "members": 439537,
+    "rating": 7.64,
+    "size": 200
+  },
+  {
+    "": 43,
+    "name": "Lovely★Complex",
+    "genre": "Comedy",
+    "popularity": 299,
+    "members": 437765,
+    "rating": 8.06,
+    "size": 200
+  },
+  {
+    "": 44,
+    "name": "Kamisama Hajimemashita",
+    "genre": "Comedy",
+    "popularity": 299,
+    "members": 435195,
+    "rating": 8.04,
+    "size": 200
+  },
+  {
+    "": 45,
+    "name": "Suzumiya Haruhi no Yuuutsu (2009)",
+    "genre": "Comedy",
+    "popularity": 307,
+    "members": 429192,
+    "rating": 7.23,
+    "size": 200
+  },
+  {
+    "": 46,
+    "name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+    "genre": "Comedy",
+    "popularity": 307,
+    "members": 425943,
+    "rating": 6.98,
+    "size": 200
+  },
+  {
+    "": 47,
+    "name": "Nekomonogatari: Kuro",
+    "genre": "Comedy",
+    "popularity": 317,
+    "members": 421717,
+    "rating": 7.98,
+    "size": 200
+  },
+  {
+    "": 48,
+    "name": "Inu x Boku SS",
+    "genre": "Comedy",
+    "popularity": 331,
+    "members": 404817,
+    "rating": 7.46,
+    "size": 200
+  },
+  {
+    "": 49,
+    "name": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+    "genre": "Comedy",
+    "popularity": 335,
+    "members": 399161,
+    "rating": 7.06,
+    "size": 200
+  },
+  {
+    "": 50,
+    "name": "Seitokai Yakuindomo",
+    "genre": "Comedy",
+    "popularity": 337,
+    "members": 394763,
+    "rating": 7.6,
+    "size": 200
+  }
+]

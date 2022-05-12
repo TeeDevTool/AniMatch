@@ -1,0 +1,452 @@
+[
+  {
+    "": 1,
+    "name": "Toradora!",
+    "genre": "Slice of Life",
+    "popularity": 17,
+    "members": 1567792,
+    "rating": 8.24,
+    "size": 200
+  },
+  {
+    "": 2,
+    "name": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+    "genre": "Slice of Life",
+    "popularity": 53,
+    "members": 1157747,
+    "rating": 8.42,
+    "size": 200
+  },
+  {
+    "": 3,
+    "name": "Violet Evergarden",
+    "genre": "Slice of Life",
+    "popularity": 67,
+    "members": 1039300,
+    "rating": 8.64,
+    "size": 200
+  },
+  {
+    "": 4,
+    "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+    "genre": "Slice of Life",
+    "popularity": 72,
+    "members": 971934,
+    "rating": 8.07,
+    "size": 200
+  },
+  {
+    "": 5,
+    "name": "Chuunibyou demo Koi ga Shitai!",
+    "genre": "Slice of Life",
+    "popularity": 77,
+    "members": 955524,
+    "rating": 7.77,
+    "size": 200
+  },
+  {
+    "": 6,
+    "name": "Sakura-sou no Pet na Kanojo",
+    "genre": "Slice of Life",
+    "popularity": 83,
+    "members": 920871,
+    "rating": 8.19,
+    "size": 200
+  },
+  {
+    "": 7,
+    "name": "Clannad: After Story",
+    "genre": "Slice of Life",
+    "popularity": 84,
+    "members": 915885,
+    "rating": 8.96,
+    "size": 200
+  },
+  {
+    "": 8,
+    "name": "Kyoukai no Kanata",
+    "genre": "Slice of Life",
+    "popularity": 99,
+    "members": 848484,
+    "rating": 7.78,
+    "size": 200
+  },
+  {
+    "": 9,
+    "name": "Kobayashi-san Chi no Maid Dragon",
+    "genre": "Slice of Life",
+    "popularity": 109,
+    "members": 772246,
+    "rating": 8.03,
+    "size": 200
+  },
+  {
+    "": 10,
+    "name": "Tonari no Kaibutsu-kun",
+    "genre": "Slice of Life",
+    "popularity": 111,
+    "members": 762563,
+    "rating": 7.55,
+    "size": 200
+  },
+  {
+    "": 11,
+    "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+    "genre": "Slice of Life",
+    "popularity": 124,
+    "members": 713318,
+    "rating": 8.27,
+    "size": 200
+  },
+  {
+    "": 12,
+    "name": "ReLIFE",
+    "genre": "Slice of Life",
+    "popularity": 126,
+    "members": 717580,
+    "rating": 8.03,
+    "size": 200
+  },
+  {
+    "": 13,
+    "name": "Kimi ni Todoke",
+    "genre": "Slice of Life",
+    "popularity": 148,
+    "members": 648101,
+    "rating": 8.02,
+    "size": 200
+  },
+  {
+    "": 14,
+    "name": "Nichijou",
+    "genre": "Slice of Life",
+    "popularity": 153,
+    "members": 647924,
+    "rating": 8.48,
+    "size": 200
+  },
+  {
+    "": 15,
+    "name": "Kokoro Connect",
+    "genre": "Slice of Life",
+    "popularity": 161,
+    "members": 632426,
+    "rating": 7.82,
+    "size": 200
+  },
+  {
+    "": 16,
+    "name": "Mahoutsukai no Yome",
+    "genre": "Slice of Life",
+    "popularity": 165,
+    "members": 622300,
+    "rating": 8.1,
+    "size": 200
+  },
+  {
+    "": 17,
+    "name": "Danshi Koukousei no Nichijou",
+    "genre": "Slice of Life",
+    "popularity": 180,
+    "members": 593890,
+    "rating": 8.28,
+    "size": 200
+  },
+  {
+    "": 18,
+    "name": "Great Teacher Onizuka",
+    "genre": "Slice of Life",
+    "popularity": 184,
+    "members": 589324,
+    "rating": 8.7,
+    "size": 200
+  },
+  {
+    "": 19,
+    "name": "Free!",
+    "genre": "Slice of Life",
+    "popularity": 189,
+    "members": 585161,
+    "rating": 7.39,
+    "size": 200
+  },
+  {
+    "": 20,
+    "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+    "genre": "Slice of Life",
+    "popularity": 190,
+    "members": 577290,
+    "rating": 7.85,
+    "size": 200
+  },
+  {
+    "": 21,
+    "name": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+    "genre": "Slice of Life",
+    "popularity": 196,
+    "members": 565710,
+    "rating": 7.1,
+    "size": 200
+  },
+  {
+    "": 22,
+    "name": "Sakamoto Desu ga?",
+    "genre": "Slice of Life",
+    "popularity": 209,
+    "members": 541911,
+    "rating": 7.59,
+    "size": 200
+  },
+  {
+    "": 23,
+    "name": "Lucky☆Star",
+    "genre": "Slice of Life",
+    "popularity": 218,
+    "members": 532794,
+    "rating": 7.77,
+    "size": 200
+  },
+  {
+    "": 24,
+    "name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "genre": "Slice of Life",
+    "popularity": 227,
+    "members": 510608,
+    "rating": 7.04,
+    "size": 200
+  },
+  {
+    "": 25,
+    "name": "Beastars",
+    "genre": "Slice of Life",
+    "popularity": 281,
+    "members": 462481,
+    "rating": 8.05,
+    "size": 200
+  },
+  {
+    "": 26,
+    "name": "Blend S",
+    "genre": "Slice of Life",
+    "popularity": 286,
+    "members": 453108,
+    "rating": 7.36,
+    "size": 200
+  },
+  {
+    "": 27,
+    "name": "Fruits Basket",
+    "genre": "Slice of Life",
+    "popularity": 314,
+    "members": 420919,
+    "rating": 7.69,
+    "size": 200
+  },
+  {
+    "": 28,
+    "name": "Grand Blue",
+    "genre": "Slice of Life",
+    "popularity": 317,
+    "members": 421403,
+    "rating": 8.41,
+    "size": 200
+  },
+  {
+    "": 29,
+    "name": "Natsume Yuujinchou",
+    "genre": "Slice of Life",
+    "popularity": 325,
+    "members": 412285,
+    "rating": 8.33,
+    "size": 200
+  },
+  {
+    "": 30,
+    "name": "Usagi Drop",
+    "genre": "Slice of Life",
+    "popularity": 339,
+    "members": 391626,
+    "rating": 8.43,
+    "size": 200
+  },
+  {
+    "": 31,
+    "name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+    "genre": "Slice of Life",
+    "popularity": 343,
+    "members": 390621,
+    "rating": 8.46,
+    "size": 200
+  },
+  {
+    "": 32,
+    "name": "Horimiya",
+    "genre": "Slice of Life",
+    "popularity": 366,
+    "members": 363936,
+    "rating": 8.6,
+    "size": 200
+  },
+  {
+    "": 33,
+    "name": "Karakai Jouzu no Takagi-san",
+    "genre": "Slice of Life",
+    "popularity": 368,
+    "members": 361838,
+    "rating": 7.77,
+    "size": 200
+  },
+  {
+    "": 34,
+    "name": "Saiki Kusuo no Ψ-nan 2",
+    "genre": "Slice of Life",
+    "popularity": 388,
+    "members": 349764,
+    "rating": 8.48,
+    "size": 200
+  },
+  {
+    "": 35,
+    "name": "Gakkougurashi!",
+    "genre": "Slice of Life",
+    "popularity": 399,
+    "members": 340561,
+    "rating": 7.63,
+    "size": 200
+  },
+  {
+    "": 36,
+    "name": "Kimi ni Todoke 2nd Season",
+    "genre": "Slice of Life",
+    "popularity": 409,
+    "members": 334486,
+    "rating": 8.01,
+    "size": 200
+  },
+  {
+    "": 37,
+    "name": "Tanaka-kun wa Itsumo Kedaruge",
+    "genre": "Slice of Life",
+    "popularity": 446,
+    "members": 314798,
+    "rating": 7.9,
+    "size": 200
+  },
+  {
+    "": 38,
+    "name": "Free!: Eternal Summer",
+    "genre": "Slice of Life",
+    "popularity": 450,
+    "members": 310522,
+    "rating": 7.68,
+    "size": 200
+  },
+  {
+    "": 39,
+    "name": "Yuru Camp△",
+    "genre": "Slice of Life",
+    "popularity": 457,
+    "members": 306650,
+    "rating": 8.27,
+    "size": 200
+  },
+  {
+    "": 40,
+    "name": "Bokura wa Minna Kawai-sou",
+    "genre": "Slice of Life",
+    "popularity": 458,
+    "members": 306236,
+    "rating": 7.72,
+    "size": 200
+  },
+  {
+    "": 41,
+    "name": "Mikakunin de Shinkoukei",
+    "genre": "Slice of Life",
+    "popularity": 473,
+    "members": 298188,
+    "rating": 7.44,
+    "size": 200
+  },
+  {
+    "": 42,
+    "name": "Tamako Market",
+    "genre": "Slice of Life",
+    "popularity": 478,
+    "members": 296679,
+    "rating": 7.38,
+    "size": 200
+  },
+  {
+    "": 43,
+    "name": "Amagami SS",
+    "genre": "Slice of Life",
+    "popularity": 487,
+    "members": 289597,
+    "rating": 7.36,
+    "size": 200
+  },
+  {
+    "": 44,
+    "name": "Yuru Yuri",
+    "genre": "Slice of Life",
+    "popularity": 511,
+    "members": 279284,
+    "rating": 7.6,
+    "size": 200
+  },
+  {
+    "": 45,
+    "name": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
+    "genre": "Slice of Life",
+    "popularity": 519,
+    "members": 273464,
+    "rating": 7.38,
+    "size": 200
+  },
+  {
+    "": 46,
+    "name": "Hanasaku Iroha",
+    "genre": "Slice of Life",
+    "popularity": 538,
+    "members": 266837,
+    "rating": 7.95,
+    "size": 200
+  },
+  {
+    "": 47,
+    "name": "Azumanga Daioh",
+    "genre": "Slice of Life",
+    "popularity": 554,
+    "members": 262980,
+    "rating": 7.98,
+    "size": 200
+  },
+  {
+    "": 48,
+    "name": "Air",
+    "genre": "Slice of Life",
+    "popularity": 563,
+    "members": 259381,
+    "rating": 7.32,
+    "size": 200
+  },
+  {
+    "": 49,
+    "name": "Acchi Kocchi (TV)",
+    "genre": "Slice of Life",
+    "popularity": 578,
+    "members": 253071,
+    "rating": 7.51,
+    "size": 200
+  },
+  {
+    "": 50,
+    "name": "Isshuukan Friends.",
+    "genre": "Slice of Life",
+    "popularity": 580,
+    "members": 251774,
+    "rating": 7.57,
+    "size": 200
+  }
+]

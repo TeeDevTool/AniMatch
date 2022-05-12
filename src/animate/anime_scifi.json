@@ -1,0 +1,452 @@
+[
+  {
+    "": 1,
+    "name": "Yakusoku no Neverland",
+    "genre": "Sci-Fi",
+    "popularity": 55,
+    "members": 1133952,
+    "rating": 8.65,
+    "size": 200
+  },
+  {
+    "": 2,
+    "name": "Dr. Stone",
+    "genre": "Sci-Fi",
+    "popularity": 79,
+    "members": 945133,
+    "rating": 8.34,
+    "size": 200
+  },
+  {
+    "": 3,
+    "name": "Made in Abyss",
+    "genre": "Sci-Fi",
+    "popularity": 95,
+    "members": 862410,
+    "rating": 8.74,
+    "size": 200
+  },
+  {
+    "": 4,
+    "name": "Date A Live",
+    "genre": "Sci-Fi",
+    "popularity": 123,
+    "members": 725237,
+    "rating": 7.22,
+    "size": 200
+  },
+  {
+    "": 5,
+    "name": "Plastic Memories",
+    "genre": "Sci-Fi",
+    "popularity": 154,
+    "members": 643043,
+    "rating": 7.94,
+    "size": 200
+  },
+  {
+    "": 6,
+    "name": "Steins;Gate 0",
+    "genre": "Sci-Fi",
+    "popularity": 185,
+    "members": 590847,
+    "rating": 8.51,
+    "size": 200
+  },
+  {
+    "": 7,
+    "name": "Orange",
+    "genre": "Sci-Fi",
+    "popularity": 210,
+    "members": 545748,
+    "rating": 7.62,
+    "size": 200
+  },
+  {
+    "": 8,
+    "name": "Kiznaiver",
+    "genre": "Sci-Fi",
+    "popularity": 213,
+    "members": 540306,
+    "rating": 7.43,
+    "size": 200
+  },
+  {
+    "": 9,
+    "name": "To LOVE-Ru",
+    "genre": "Sci-Fi",
+    "popularity": 245,
+    "members": 483606,
+    "rating": 7.07,
+    "size": 200
+  },
+  {
+    "": 10,
+    "name": "Yakusoku no Neverland 2nd Season",
+    "genre": "Sci-Fi",
+    "popularity": 248,
+    "members": 482725,
+    "rating": 7.49,
+    "size": 200
+  },
+  {
+    "": 11,
+    "name": "Dr. Stone: Stone Wars",
+    "genre": "Sci-Fi",
+    "popularity": 325,
+    "members": 414084,
+    "rating": 8.29,
+    "size": 200
+  },
+  {
+    "": 12,
+    "name": "Chobits",
+    "genre": "Sci-Fi",
+    "popularity": 332,
+    "members": 402646,
+    "rating": 7.43,
+    "size": 200
+  },
+  {
+    "": 13,
+    "name": "Sora no Otoshimono",
+    "genre": "Sci-Fi",
+    "popularity": 338,
+    "members": 394109,
+    "rating": 7.36,
+    "size": 200
+  },
+  {
+    "": 14,
+    "name": "Mekakucity Actors",
+    "genre": "Sci-Fi",
+    "popularity": 354,
+    "members": 373894,
+    "rating": 7.08,
+    "size": 200
+  },
+  {
+    "": 15,
+    "name": "Gakusen Toshi Asterisk 2nd Season",
+    "genre": "Sci-Fi",
+    "popularity": 438,
+    "members": 316957,
+    "rating": 7.08,
+    "size": 200
+  },
+  {
+    "": 16,
+    "name": "Haiyore! Nyaruko-san",
+    "genre": "Sci-Fi",
+    "popularity": 496,
+    "members": 284937,
+    "rating": 7.07,
+    "size": 200
+  },
+  {
+    "": 17,
+    "name": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+    "genre": "Sci-Fi",
+    "popularity": 516,
+    "members": 275841,
+    "rating": 7.73,
+    "size": 200
+  },
+  {
+    "": 18,
+    "name": "Space☆Dandy",
+    "genre": "Sci-Fi",
+    "popularity": 537,
+    "members": 267394,
+    "rating": 7.88,
+    "size": 200
+  },
+  {
+    "": 19,
+    "name": "Motto To LOVE-Ru",
+    "genre": "Sci-Fi",
+    "popularity": 565,
+    "members": 259545,
+    "rating": 7.34,
+    "size": 200
+  },
+  {
+    "": 20,
+    "name": "ChäoS;HEAd",
+    "genre": "Sci-Fi",
+    "popularity": 567,
+    "members": 257868,
+    "rating": 6.37,
+    "size": 200
+  },
+  {
+    "": 21,
+    "name": "Denpa Onna to Seishun Otoko",
+    "genre": "Sci-Fi",
+    "popularity": 584,
+    "members": 249947,
+    "rating": 7.18,
+    "size": 200
+  },
+  {
+    "": 22,
+    "name": "Black Cat (TV)",
+    "genre": "Sci-Fi",
+    "popularity": 622,
+    "members": 231668,
+    "rating": 7.38,
+    "size": 200
+  },
+  {
+    "": 23,
+    "name": "Date A Live III",
+    "genre": "Sci-Fi",
+    "popularity": 658,
+    "members": 223731,
+    "rating": 7.13,
+    "size": 200
+  },
+  {
+    "": 24,
+    "name": "Persona 4 the Animation",
+    "genre": "Sci-Fi",
+    "popularity": 662,
+    "members": 221067,
+    "rating": 7.52,
+    "size": 200
+  },
+  {
+    "": 25,
+    "name": "Kanata no Astra",
+    "genre": "Sci-Fi",
+    "popularity": 756,
+    "members": 197328,
+    "rating": 8.16,
+    "size": 200
+  },
+  {
+    "": 26,
+    "name": "Occultic;Nine",
+    "genre": "Sci-Fi",
+    "popularity": 889,
+    "members": 167865,
+    "rating": 6.94,
+    "size": 200
+  },
+  {
+    "": 27,
+    "name": "Gatchaman Crowds",
+    "genre": "Sci-Fi",
+    "popularity": 911,
+    "members": 163259,
+    "rating": 7.33,
+    "size": 200
+  },
+  {
+    "": 28,
+    "name": "Robotics;Notes",
+    "genre": "Sci-Fi",
+    "popularity": 937,
+    "members": 157614,
+    "rating": 7.35,
+    "size": 200
+  },
+  {
+    "": 29,
+    "name": "Flip Flappers",
+    "genre": "Sci-Fi",
+    "popularity": 949,
+    "members": 156048,
+    "rating": 7.68,
+    "size": 200
+  },
+  {
+    "": 30,
+    "name": "Bokura no",
+    "genre": "Sci-Fi",
+    "popularity": 987,
+    "members": 149892,
+    "rating": 7.66,
+    "size": 200
+  },
+  {
+    "": 31,
+    "name": "Onegai☆Teacher",
+    "genre": "Sci-Fi",
+    "popularity": 1008,
+    "members": 147889,
+    "rating": 7.17,
+    "size": 200
+  },
+  {
+    "": 32,
+    "name": "Haiyore! Nyaruko-san W",
+    "genre": "Sci-Fi",
+    "popularity": 1010,
+    "members": 147938,
+    "rating": 7.28,
+    "size": 200
+  },
+  {
+    "": 33,
+    "name": "Subete ga F ni Naru",
+    "genre": "Sci-Fi",
+    "popularity": 1070,
+    "members": 138962,
+    "rating": 7.27,
+    "size": 200
+  },
+  {
+    "": 34,
+    "name": "DearS",
+    "genre": "Sci-Fi",
+    "popularity": 1146,
+    "members": 128788,
+    "rating": 6.62,
+    "size": 200
+  },
+  {
+    "": 35,
+    "name": "Aria the Animation",
+    "genre": "Sci-Fi",
+    "popularity": 1151,
+    "members": 127878,
+    "rating": 7.69,
+    "size": 200
+  },
+  {
+    "": 36,
+    "name": "Ao no Kanata no Four Rhythm",
+    "genre": "Sci-Fi",
+    "popularity": 1167,
+    "members": 126998,
+    "rating": 6.71,
+    "size": 200
+  },
+  {
+    "": 37,
+    "name": "Shinreigari",
+    "genre": "Sci-Fi",
+    "popularity": 1215,
+    "members": 120529,
+    "rating": 7.46,
+    "size": 200
+  },
+  {
+    "": 38,
+    "name": "Tokyo Mew Mew",
+    "genre": "Sci-Fi",
+    "popularity": 1251,
+    "members": 115993,
+    "rating": 6.99,
+    "size": 200
+  },
+  {
+    "": 39,
+    "name": "ChäoS;Child",
+    "genre": "Sci-Fi",
+    "popularity": 1312,
+    "members": 108167,
+    "rating": 6.39,
+    "size": 200
+  },
+  {
+    "": 40,
+    "name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+    "genre": "Sci-Fi",
+    "popularity": 1401,
+    "members": 100399,
+    "rating": 6.58,
+    "size": 200
+  },
+  {
+    "": 41,
+    "name": "Aria the Origination",
+    "genre": "Sci-Fi",
+    "popularity": 1415,
+    "members": 98196,
+    "rating": 8.53,
+    "size": 200
+  },
+  {
+    "": 42,
+    "name": "Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori",
+    "genre": "Sci-Fi",
+    "popularity": 1416,
+    "members": 98209,
+    "rating": 6.23,
+    "size": 200
+  },
+  {
+    "": 43,
+    "name": "Seikaisuru Kado",
+    "genre": "Sci-Fi",
+    "popularity": 1473,
+    "members": 93940,
+    "rating": 6.81,
+    "size": 200
+  },
+  {
+    "": 44,
+    "name": "Seikimatsu Occult Gakuin",
+    "genre": "Sci-Fi",
+    "popularity": 1529,
+    "members": 90253,
+    "rating": 7.07,
+    "size": 200
+  },
+  {
+    "": 45,
+    "name": "Scrapped Princess",
+    "genre": "Sci-Fi",
+    "popularity": 1637,
+    "members": 81917,
+    "rating": 7.41,
+    "size": 200
+  },
+  {
+    "": 46,
+    "name": "Level E",
+    "genre": "Sci-Fi",
+    "popularity": 1652,
+    "members": 81291,
+    "rating": 7.45,
+    "size": 200
+  },
+  {
+    "": 47,
+    "name": "Noein: Mou Hitori no Kimi e",
+    "genre": "Sci-Fi",
+    "popularity": 1688,
+    "members": 78451,
+    "rating": 7.62,
+    "size": 200
+  },
+  {
+    "": 48,
+    "name": "Ushinawareta Mirai wo Motomete",
+    "genre": "Sci-Fi",
+    "popularity": 1703,
+    "members": 78179,
+    "rating": 6.76,
+    "size": 200
+  },
+  {
+    "": 49,
+    "name": "Bobobo-bo Bo-bobo",
+    "genre": "Sci-Fi",
+    "popularity": 1781,
+    "members": 72819,
+    "rating": 7.5,
+    "size": 200
+  },
+  {
+    "": 50,
+    "name": "Norn9: Norn+Nonet",
+    "genre": "Sci-Fi",
+    "popularity": 1798,
+    "members": 71268,
+    "rating": 6.56,
+    "size": 200
+  }
+]
